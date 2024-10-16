@@ -1,0 +1,152 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Tumi\\Documents\\Chain4 Prototype\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DD2B1167-6383-D901-A3B6-FA192CB80B0D}|Assembly-CSharp.csproj|C:\\Users\\Tumi\\Documents\\Chain4 Prototype\\assets\\scripts\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD2B1167-6383-D901-A3B6-FA192CB80B0D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD2B1167-6383-D901-A3B6-FA192CB80B0D}|Assembly-CSharp.csproj|C:\\Users\\Tumi\\Documents\\Chain4 Prototype\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD2B1167-6383-D901-A3B6-FA192CB80B0D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD2B1167-6383-D901-A3B6-FA192CB80B0D}|Assembly-CSharp.csproj|c:\\users\\tumi\\documents\\chain4 prototype\\assets\\scripts\\slideshow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD2B1167-6383-D901-A3B6-FA192CB80B0D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\slideshow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD2B1167-6383-D901-A3B6-FA192CB80B0D}|Assembly-CSharp.csproj|c:\\users\\tumi\\documents\\chain4 prototype\\assets\\scripts\\mainmenu2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD2B1167-6383-D901-A3B6-FA192CB80B0D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mainmenu2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD2B1167-6383-D901-A3B6-FA192CB80B0D}|Assembly-CSharp.csproj|C:\\Users\\Tumi\\Documents\\Chain4 Prototype\\assets\\scripts\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD2B1167-6383-D901-A3B6-FA192CB80B0D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD2B1167-6383-D901-A3B6-FA192CB80B0D}|Assembly-CSharp.csproj|C:\\Users\\Tumi\\Documents\\Chain4 Prototype\\assets\\scripts\\inputfield.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD2B1167-6383-D901-A3B6-FA192CB80B0D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\inputfield.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD2B1167-6383-D901-A3B6-FA192CB80B0D}|Assembly-CSharp.csproj|C:\\Users\\Tumi\\Documents\\Chain4 Prototype\\assets\\streamingassets\\scrabblewords.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{DD2B1167-6383-D901-A3B6-FA192CB80B0D}|Assembly-CSharp.csproj|solutionrelative:assets\\streamingassets\\scrabblewords.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD2B1167-6383-D901-A3B6-FA192CB80B0D}|Assembly-CSharp.csproj|C:\\Users\\Tumi\\Documents\\Chain4 Prototype\\assets\\scripts\\coordinateupdater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD2B1167-6383-D901-A3B6-FA192CB80B0D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\coordinateupdater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainMenu2.cs",
+              "DocumentMoniker": "C:\\Users\\Tumi\\Documents\\Chain4 Prototype\\Assets\\Scripts\\MainMenu2.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MainMenu2.cs",
+              "ToolTip": "C:\\Users\\Tumi\\Documents\\Chain4 Prototype\\Assets\\Scripts\\MainMenu2.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MainMenu2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T05:35:42.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Slideshow.cs",
+              "DocumentMoniker": "C:\\Users\\Tumi\\Documents\\Chain4 Prototype\\Assets\\Scripts\\Slideshow.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Slideshow.cs",
+              "ToolTip": "C:\\Users\\Tumi\\Documents\\Chain4 Prototype\\Assets\\Scripts\\Slideshow.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Slideshow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T05:27:17.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainMenu.cs",
+              "DocumentMoniker": "C:\\Users\\Tumi\\Documents\\Chain4 Prototype\\Assets\\Scripts\\MainMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MainMenu.cs",
+              "ToolTip": "C:\\Users\\Tumi\\Documents\\Chain4 Prototype\\Assets\\Scripts\\MainMenu.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MainMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T05:15:10.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ScrabbleWords.txt",
+              "DocumentMoniker": "C:\\Users\\Tumi\\Documents\\Chain4 Prototype\\Assets\\StreamingAssets\\ScrabbleWords.txt",
+              "RelativeDocumentMoniker": "Assets\\StreamingAssets\\ScrabbleWords.txt",
+              "ToolTip": "C:\\Users\\Tumi\\Documents\\Chain4 Prototype\\Assets\\StreamingAssets\\ScrabbleWords.txt",
+              "RelativeToolTip": "Assets\\StreamingAssets\\ScrabbleWords.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-10-14T04:38:04.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InputField.cs",
+              "DocumentMoniker": "C:\\Users\\Tumi\\Documents\\Chain4 Prototype\\Assets\\Scripts\\InputField.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\InputField.cs",
+              "ToolTip": "C:\\Users\\Tumi\\Documents\\Chain4 Prototype\\Assets\\Scripts\\InputField.cs",
+              "RelativeToolTip": "Assets\\Scripts\\InputField.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T10:42:29.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CoordinateUpdater.cs",
+              "DocumentMoniker": "C:\\Users\\Tumi\\Documents\\Chain4 Prototype\\Assets\\Scripts\\CoordinateUpdater.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CoordinateUpdater.cs",
+              "ToolTip": "C:\\Users\\Tumi\\Documents\\Chain4 Prototype\\Assets\\Scripts\\CoordinateUpdater.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CoordinateUpdater.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T09:30:02.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Token.cs",
+              "DocumentMoniker": "C:\\Users\\Tumi\\Documents\\Chain4 Prototype\\Assets\\Scripts\\Token.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Token.cs",
+              "ToolTip": "C:\\Users\\Tumi\\Documents\\Chain4 Prototype\\Assets\\Scripts\\Token.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Token.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAcwHwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T18:44:22.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\Tumi\\Documents\\Chain4 Prototype\\Assets\\Scripts\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
+              "ToolTip": "C:\\Users\\Tumi\\Documents\\Chain4 Prototype\\Assets\\Scripts\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameManager.cs",
+              "ViewState": "AgIAAC0DAAAAAAAAAAAawBcDAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T23:44:45.371Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
