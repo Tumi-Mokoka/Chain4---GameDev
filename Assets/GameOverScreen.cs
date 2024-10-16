@@ -18,7 +18,9 @@ public class GameOverScreen : MonoBehaviour
 
     public void PlayAgainButton()
     {
-        SceneManager.LoadScene("GameScene");
+        Scene currentScene = SceneManager.GetActiveScene();
+        string sceneName = currentScene.name;
+        SceneManager.LoadScene(sceneName);
     }
 
     public void MainMenuButton()
