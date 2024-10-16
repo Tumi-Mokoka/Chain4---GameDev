@@ -2,8 +2,10 @@
  Strategic PvP wordbuilder game
 
  ### Authors: 
- Fabio O'Ryan-Paulo 
+ Fabio O'Ryan-Paulo
+ 
  Shivaskar Naidoo
+ 
  Boitumelo Mokoka 
 
 
